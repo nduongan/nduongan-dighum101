@@ -10,3 +10,5 @@ Over the past ten years, the marketing landscape has changed drastically with th
 To calculate a user’s engagement rate, the following key metrics are required: number of posts, number of followers, number of comments, and number of likes. The formula for the engagement rate is 
 
 Engagement =(Total Comments + Total Likes)(Number of Posts   Number of Followers)  100  
+
+Engagement rates are crucial when evaluating whether or not any given influencer is the right fit for a paid opportunity. From the few clients I have worked with, I have gathered that they do not see value in influencers and are very hesitant to pursue this form of marketing. An engagement rate tells marketers how much and how well an influencer does on their posts. This is because engagement “is a measure of all interactions” with one’s social media content. Companies want to partner with individuals that have strong followings or high engagement to make the most out of their content. 
